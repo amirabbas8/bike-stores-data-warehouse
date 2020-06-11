@@ -1,5 +1,5 @@
 # bike-stores-data-warehouse
-db2 project : a data warehouse for modified version of "Bike Stores" db which have more than 1M data.
+db2 project : a data warehouse for modified version of "Bike Stores" db which has more than 1M data.
 
 # usage:
 * 1 load src ddl
